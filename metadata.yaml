@@ -1,0 +1,38 @@
+_repo: The-Outcry_21969
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: James, Henry
+    birthdate: 1843
+    deathdate: 1916
+    gutenberg_agent_id: '113'
+    url: http://www.gutenberg.org/2009/agents/113
+    wikipedia: http://en.wikipedia.org/wiki/Henry_James
+description: The Shelf2Life Literature and Fiction Collection is a unique set of short
+  stories, poems and novels from the late 19th to early 20th centuries. From tales
+  of love, life and heartbreaking loss to humorous stories of ghost encounters, these
+  volumes captivate the imaginations of readers young and old. Included in this collection
+  are a variety of dramatic and spirited poems that contemplate the mysteries of life
+  and celebrate the wild beauty of nature. The Shelf2Life Literature and Fiction Collection
+  provides readers with an opportunity to enjoy and study these iconic literary works,
+  many of which were written during a period of remarkable creativity.
+gutenberg_issued: '2007-06-29'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '21969'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Painting -- Expertising -- Fiction'
+- !lcsh 'Art dealers -- Fiction'
+- !lcsh 'Art historians -- Fiction'
+- !lcc 'PS'
+- !lcsh 'Romans à clef'
+- !lcsh 'Painting -- Collectors and collecting -- Fiction'
+title: The Outcry
+url: http://www.gutenberg.org/ebooks/21969
